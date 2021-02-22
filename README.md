@@ -28,7 +28,7 @@ plans to new tasks and environments.
 
 # About the files in this repo
 In this repo, I have attached all the code I wrote during SHINE 2020 and all of the code's inputs and outputs, with the exception of layer1.json, which was too large to upload. You can download layer1.json from the website provided in the [recipes_dataset_link.txt](recipes_dataset_link.txt) file. 
-
+ 
 All files are my original work. Each commit description serves as a description of the file's function and purpose.
 
 For a general overview of my project check out my [padlet](https://padlet.com/USCViterbiSTEM/SHINE20_RuthB). 
